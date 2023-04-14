@@ -7,49 +7,21 @@
   
 
 # Welcome to my Github👋  
-  
 
 안녕하세요 나날이 성장하는 개발자를 꿈꾸는 김푸름 입니다!  
 A driven, curious developer who values learning, knowledge sharing, and collaboration.
-  
 
-<a href="https://instagram.com/insta" target="_blank">
-
-   #### 👀 Visit my porfolio [![Notion Badge](https://img.shields.io/badge/-Here-black?logo=notion&logoColor=white&link=https://judicious-quarter-626.notion.site/0a099ad5660d438f8e892ae8bfb45dfe)](https://judicious-quarter-626.notion.site/0a099ad5660d438f8e892ae8bfb45dfe)
-  #### 📫contact me with [![mail badge](https://img.shields.io/badge/-Here-03C75A?logo=naver&logoColor=white&link=https://judicious-quarter-626.notion.site/0a099ad5660d438f8e892ae8bfb45dfe)](https://judicious-quarter-626.notion.site/0a099ad5660d438f8e892ae8bfb45dfe)  
-
-
-  
-<br/>  
-
+   ### 👀 Visit my porfolio [![Notion Badge](https://img.shields.io/badge/-Here-black?logo=notion&logoColor=white&link=https://judicious-quarter-626.notion.site/0a099ad5660d438f8e892ae8bfb45dfe)](https://judicious-quarter-626.notion.site/0a099ad5660d438f8e892ae8bfb45dfe)    📫contact me with [![mail badge](https://img.shields.io/badge/-Here-03C75A?logo=naver&logoColor=white&link=https://judicious-quarter-626.notion.site/0a099ad5660d438f8e892ae8bfb45dfe)](https://judicious-quarter-626.notion.site/0a099ad5660d438f8e892ae8bfb45dfe)  
+<br/>
 
 ## Personal history 
 
 - 🎓 B.S. Geoinformatic engineering and Computer science in Inha Univ, Korea  
-  
-
 - 🌱President of DEBUG, programming club in Inha-univ (2020-2~2021-2)  
-  
-
 - 🔭1st univ-student creator of KOFST  
-  
-
 - 🎤 University Student Communication Advisor of National Life Science Advisory Group  
-  
-
 - 🌐 AYF(Asian Youth Forum) 6th participant  
-  
-
 - 💙Samsung Software Academy For Youth 9th  
-
-
-
-
-
-</td></tr></table>  
-
-<br/>  
-
 
 ## Languages and Tools  
 <div align="center">  
@@ -75,9 +47,6 @@ A driven, curious developer who values learning, knowledge sharing, and collabor
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 </div>  
 
-<br/> 
-<br/> 
-
 
 ## Github Stats  
 <div align="center">  <table ><tr><td valign="top" width="50%">
@@ -90,33 +59,12 @@ A driven, curious developer who values learning, knowledge sharing, and collabor
 
 </td></tr></table>  </div>
 
-<br/>  
-<br/> 
 
 ## Problem Solving Tier w Solved.ac 
 <div align="center"> 
   <img src="http://mazassumnida.wtf/api/generate_badge?boj=prkim99" />
 </div>
 
-<br/>  
-<br/> 
-
-
-
-### Recent Post  
-<!-- BLOG-POST-LIST:START -->  
-This section would be replaced by a list of my blog posts
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
 
 
 <br />
