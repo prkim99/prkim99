@@ -9,18 +9,20 @@
 ## Welcome to my Github👋  
   
 
-안녕하세요 백엔드/ 서버 개발자를 꿈꾸는 김푸름 입니다!  
+안녕하세요 나날이 성장하는 개발자를 꿈꾸는 김푸름 입니다!  
   
 
 <a href="https://instagram.com/insta" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-  
 
+ ### 📂 Visit my porfolio [![Notion Badge](https://img.shields.io/badge/-Here-black?logo=notion&logoColor=white&link=https://judicious-quarter-626.notion.site/0a099ad5660d438f8e892ae8bfb45dfe)](https://judicious-quarter-626.notion.site/0a099ad5660d438f8e892ae8bfb45dfe)
+### 📫contact me with [![mail badge](https://img.shields.io/badge/-Here-03C75A?logo=naver&logoColor=white&link=https://judicious-quarter-626.notion.site/0a099ad5660d438f8e892ae8bfb45dfe)](https://judicious-quarter-626.notion.site/0a099ad5660d438f8e892ae8bfb45dfe)  
+
+
+  
 <br/>  
 
 
-## Rapidfire  
+## Personal history 
 
 - 🎓 B.S. Geoinformatic engineering and Computer science in Inha Univ, Korea  
   
@@ -72,27 +74,37 @@
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 </div>  
 
-<br/>  
+<br/> 
+<br/> 
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<div align="center">  <table ><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=prkim99&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=prkim99&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 95%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prkim99&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prkim99&hide_border=true&layout=compact" align="left" style="width: 95%" />
 
-</td></tr></table>  
+</td></tr></table>  </div>
 
 <br/>  
+<br/> 
+
+## Problem Solving Tier w Solved.ac 
+<div align="center"> 
+  <img src="http://mazassumnida.wtf/api/generate_badge?boj=prkim99" />
+</div>
+
+<br/>  
+<br/> 
 
 
 
 ### Recent Post  
 <!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+This section would be replaced by a list of my blog posts
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
