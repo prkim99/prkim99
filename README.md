@@ -62,7 +62,7 @@ A driven, curious developer who values learning, knowledge sharing, and collabor
 
 ## Problem Solving Tier w Solved.ac 
 <div align="center"> 
-  <img src="http://mazassumnida.wtf/api/generate_badge?boj=prkim99" />
+<a href="http://solved.ac/prkim99"><img src="http://mazassumnida.wtf/api/generate_badge?boj=prkim99" /></>
 </div>
 
 
