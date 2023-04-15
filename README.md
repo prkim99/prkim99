@@ -11,17 +11,17 @@
 안녕하세요 나날이 성장하는 개발자를 꿈꾸는 김푸름 입니다!  
 A driven, curious developer who values learning, knowledge sharing, and collaboration.
 
-   ### 👀 Visit my porfolio [![Notion Badge](https://img.shields.io/badge/-Here-black?logo=notion&logoColor=white&link=https://judicious-quarter-626.notion.site/0a099ad5660d438f8e892ae8bfb45dfe)](https://judicious-quarter-626.notion.site/0a099ad5660d438f8e892ae8bfb45dfe)    📫contact me with [![mail badge](https://img.shields.io/badge/-Here-03C75A?logo=naver&logoColor=white&link=https://judicious-quarter-626.notion.site/0a099ad5660d438f8e892ae8bfb45dfe)](https://judicious-quarter-626.notion.site/0a099ad5660d438f8e892ae8bfb45dfe)  
+   ### 👀 Visit my porfolio [![Notion Badge](https://img.shields.io/badge/-Here-black?logo=notion&logoColor=white&link=https://judicious-quarter-626.notion.site/0a099ad5660d438f8e892ae8bfb45dfe)](https://judicious-quarter-626.notion.site/0a099ad5660d438f8e892ae8bfb45dfe)    🍀contact me with [![mail badge](https://img.shields.io/badge/-Here-03C75A?logo=naver&logoColor=white&link=mailto:prkim99@naver.com)](mailto:prkim99@NAVER.com)
 <br/>
 
 ## Personal history 
 
 - 🎓 B.S. Geoinformatic engineering and Computer science in Inha Univ, Korea  
-- 🌱President of DEBUG, programming club in Inha-univ (2020-2~2021-2)  
-- 🔭1st univ-student creator of KOFST  
+- 🐛 President of DEBUG, programming club in Inha-univ (2020-2~2021-2)  
+- 🔭 1st univ-student creator of KOFST  
 - 🎤 University Student Communication Advisor of National Life Science Advisory Group  
 - 🌐 AYF(Asian Youth Forum) 6th participant  
-- 💙Samsung Software Academy For Youth 9th  
+- 💙 Samsung Software Academy For Youth 9th  
 
 ## Languages and Tools  
 <div align="center">  
